@@ -11,5 +11,6 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: clunkiersalt817/badge-readme@main
+        CREDLY_USER : Kshitiz Sharma
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}

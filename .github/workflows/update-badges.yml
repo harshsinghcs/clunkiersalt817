@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: clunkiersalt817/badge-readme@main
+        uses: pemtajo/badge-readme@2.1.0
         CREDLY_USER : kshitiz-sharma.e63cbb0f
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}

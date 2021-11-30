@@ -4,11 +4,6 @@
 - 💞️ I’m looking to collaborate on some blender projects on environment design.
 - 📫 How to reach me ...
 
-|Certificates|
-
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
-
 - <a href="https://twitter.com/intent/follow?screen_name=clunkiersalt817"><img src="https://img.shields.io/twitter/url?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3Fscreen_name%3Dclunkiersalt817"></a>
 - <a href="https://www.linkedin.com/in/clunkiersalt817/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 - <a href="mailto:kshitizsharmajbp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>

@@ -17,6 +17,6 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          REPOSITORY: samtrion/samtrion
-          CREDLY_USER: martin-stuehmer
+          REPOSITORY: clunkiersalt817/clunkiersalt817
+          CREDLY_USER: kshitiz-sharma.e63cbb0f
           CREDLY_SORT: RECENT # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT

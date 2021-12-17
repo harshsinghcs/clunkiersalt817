@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clunkiersalt817
 - 👀 I’m interested in Cloud computing, Cybersecurity, Game Development and I love to play Video Games.
-- 🌱 I’m currently learning AWS, Blender.
+- 🌱 I’m currently learning AWS, Blender, C, and C++
 - 💞️ I’m looking to collaborate on some blender projects on environment design.
 - 📫 How to reach me ...
 

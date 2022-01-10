@@ -14,6 +14,7 @@
 
 <!--START_SECTION:badges-->
 
+[![AWS Academy Graduate - AWS Academy Cloud Architecting](https://images.credly.com/size/110x110/images/fb464d5b-5c39-44a4-b4f0-cf07897fc425/AWS-Academy-Graduate-Badge-Associate.png)](http://www.credly.com/badges/f1ed787b-d83e-4ac1-ada8-4d110301d86c "AWS Academy Graduate - AWS Academy Cloud Architecting")
 [![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/110x110/images/ead0ef07-6071-4c96-a79f-27bb32c4be93/AWS-Academy-Graduate-Badge-Foundational.png)](http://www.credly.com/badges/0ba4f650-7f83-41f9-af52-06073d8c9b21 "AWS Academy Graduate - AWS Academy Cloud Foundations")
 <!--END_SECTION:badges-->
 

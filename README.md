@@ -2,7 +2,10 @@
 - 👀 I’m interested in Cloud computing, Cybersecurity, Game Development and I love to play Video Games.
 - 💞️ I’m looking to collaborate on some blender projects on environment design.
 - In my free time I play Guitar 
-- Ride bicycle (Checkout my Activities - )
+- Ride bicycle (Checkout my Activities - <a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('http://badges.strava.com/logo-strava-echelon.png')" href='https://www.strava.com/register?content=74907424&cta=follow&element=button&follow_athlete_after_login=true&follow_athlete_after_registration=true&follow_athlete_id=74907424&source=athletes_show' target="_clean">
+  Follow me on
+  <img src='http://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
+</a>)
 - Watch animes...
 - Softwares and Languages...
 - <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="32" height="32"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="32" height="32"/> </a> <a href="https://www.blender.org/"><img width="32" alt="Blender logo no text" src="https://download.blender.org/branding/community/blender_community_badge_white.svg"></a> <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank" rel="noreferrer"> <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35@2x.png" alt="c" width="59" height="35"/> </a>
@@ -24,8 +27,3 @@
 clunkiersalt817/clunkiersalt817 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('http://badges.strava.com/logo-strava-echelon.png')" href='https://www.strava.com/register?content=74907424&cta=follow&element=button&follow_athlete_after_login=true&follow_athlete_after_registration=true&follow_athlete_id=74907424&source=athletes_show' target="_clean">
-  Follow me on
-  <img src='http://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
-</a>

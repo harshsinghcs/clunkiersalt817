@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud computing, Cybersecurity, Game Development and I love to play Video Games.
 - 💞️ I’m looking to collaborate on some blender projects on environment design.
 - In my free time I play Guitar 
-- Ride bicycle (Checkout my Activities - <a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('http://badges.strava.com/logo-strava-echelon.png')" href='https://www.strava.com/register?content=74907424&cta=follow&element=button&follow_athlete_after_login=true&follow_athlete_after_registration=true&follow_athlete_id=74907424&source=athletes_show' target="_clean">
+- Ride bicycle (Checkout my Activities - <a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('http://badges.strava.com/logo-strava-echelon.png')" href='https://www.strava.com/athletes/74907424' target="_clean">
   <img src='http://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
 </a>)
 - Watch animes...

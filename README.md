@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kshitiz Sharma
 - 👀 I’m interested in Cloud computing, DevOps, Cybersecurity.
-- ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+- ![Visitor Count](https://profile-counter.glitch.me/clunkiersalt817/count.svg)
 - Softwares and Languages...
 - <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="32" height="32"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="32" height="32"/> </a> <a href="https://www.blender.org/"><img width="32" alt="Blender logo no text" src="https://download.blender.org/branding/community/blender_community_badge_white.svg"></a> <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank" rel="noreferrer"> <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35@2x.png" alt="c" width="59" height="35"/> </a>
 - 📫 How to reach me ...

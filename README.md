@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Kshitiz Sharma</h1>
+<h3 align="center">A Passionate Software Engineer from India</h3>
+![news24](https://user-images.githubusercontent.com/115187902/230700760-508f251b-38c1-48e4-8065-16fa3627a5ad.gif)
+
 - 👋 Hi, I’m Kshitiz Sharma
 - 👀 I’m interested in Cloud computing, DevOps, Cybersecurity.
 - ![Visitor Count](https://profile-counter.glitch.me/clunkiersalt817/count.svg)
